@@ -368,15 +368,7 @@ Hannah Fathi (Fall 2025). TSK Fuzzy Inference System for Asphalt Performance Pre
 
 ## Author
 
-**Hannah Fathi**
-
-Research Interests:
-
-* Explainable AI
-* Computer Vision
-* Remote Sensing
-* Medical AI
-* Large Language Models
+**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research
 
 ---
 
